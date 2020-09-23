@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-cli-change-font-size"
+    }
+  },
+  "defaultProject": "angular-cli-change-font-size",
+  "cli": {
+    "analytics": "2314c352-d3a8-48e0-9fb3-36d6985b6083"
+  }
 }
